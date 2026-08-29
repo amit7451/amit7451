@@ -1,8 +1,8 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com/?font=Courier+Prime&size=22&duration=2800&pause=900&color=E8E6E1&background=00000000&center=true&vCenter=true&width=560&lines=amit7451;full-stack+engineer;AI+%2F+ML+tinkerer;C%2B%2B+%2F+DSA%2C+daily">
-  <img src="https://readme-typing-svg.demolab.com/?font=Courier+Prime&size=22&duration=2800&pause=900&color=1A1A1A&background=00000000&center=true&vCenter=true&width=560&lines=amit7451;full-stack+engineer;AI+%2F+ML+Student;C%2B%2B+%2F+DSA%2C+daily" alt="amit7451" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com/?font=Courier+Prime&size=22&duration=2800&pause=900&color=E8E6E1&background=00000000&center=true&vCenter=true&width=560&lines=amit7451;full-stack+engineer;AI+%2F+ML+Student;C%2B%2B+%2F+DSA">
+  <img src="https://readme-typing-svg.demolab.com/?font=Courier+Prime&size=22&duration=2800&pause=900&color=1A1A1A&background=00000000&center=true&vCenter=true&width=560&lines=amit7451;full-stack+engineer;AI+%2F+ML+Student;C%2B%2B+%2F+DSA" alt="amit7451" />
 </picture>
 
 `b.tech cse · kiet ghaziabad`&nbsp;&nbsp;·&nbsp;&nbsp;`cto / sde @ doordripp`
