@@ -16,9 +16,9 @@
 ## `$ whoami`
 
 ```
-amit — full-stack engineer. part-time AI tinkerer. full-time debugger.
-B.Tech CSE @ KIET Ghaziabad · CGPA 8.98
-CTO / SDE @ Doordripp — since March 2026. the servers are my problem now.
+amit — full-stack engineer. AI/ML Student. C++, DSA.
+B.Tech CSE @ KIET Ghaziabad · CGPA 8.84
+CTO / SDE @ Doordripp — since March 2026.
 builds in MERN, Flutter, and Python. ships to production, not to a demo.
 ```
 
@@ -29,7 +29,7 @@ builds in MERN, Flutter, and Python. ships to production, not to a demo.
 ```
 *   a1e9f2c (HEAD -> main) merge: four branches, one build sheet
 |\
-| * 8b2c19d (full-stack)     doordripp + rentra — production, real users
+| * 8b2c19d (full-stack)     doordripp + modbit + rentra — production, real users
 | * 4f0a7e1 (ai-ml)          ion-ai — rag chatbots, vector search, guardrails
 | * c93d0aa (dsa-cpp)        leetcode — 50+ solved, c++, daily
 | * 1a77bde (cloud-devops)   aws + gcp certified, docker, linux
