@@ -13,6 +13,26 @@
 </div>
 <br>
 
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/amit7451/amit7451/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/amit7451/amit7451/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="GitHub contribution grid snake animation"
+    src="https://raw.githubusercontent.com/amit7451/amit7451/output/github-contribution-grid-snake.svg"
+  />
+</picture>
+
+</div>
+
+<br>
+
 ## `$ whoami`
 
 ```
