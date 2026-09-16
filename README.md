@@ -39,7 +39,7 @@
 amit — full-stack engineer. AI/ML Student. C++, DSA.
 B.Tech CSE @ KIET Ghaziabad · CGPA 8.84
 CTO / SDE @ Doordripp — since March 2026.
-builds in MERN, Flutter, and Python. ships to production, not to a demo.
+builds in MERN, Flutter, and Python. ships to production.
 ```
 
 <br>
@@ -51,7 +51,7 @@ builds in MERN, Flutter, and Python. ships to production, not to a demo.
 |\
 | * 8b2c19d (full-stack)     doordripp + modbit + rentra — production, real users
 | * 4f0a7e1 (ai-ml)          ion-ai — rag chatbots, vector search, guardrails
-| * c93d0aa (dsa-cpp)        leetcode — 50+ solved, c++, daily
+| * c93d0aa (dsa-cpp)        leetcode — 100+ solved, c++, daily
 | * 1a77bde (cloud-devops)   aws + gcp certified, docker, linux
 |/
 * 0000000  root-commit — hello, world
@@ -94,7 +94,7 @@ certified                   aws ml engineer – associate
 *`$ tree dsa-cpp/`*
 
 ```
-leetcode/                   50+ solved · counting up
+leetcode/                   100+ solved · counting up
 ├── language                c++
 ├── focus                   arrays · trees · graphs · dp
 └── cadence                 a little, most days
